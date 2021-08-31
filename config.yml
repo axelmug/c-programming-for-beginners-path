@@ -1,0 +1,14 @@
+title: C Programming for Beginners
+description: >-
+  C built UNIX and Linux, and has Python, Java, Swift, many other programming
+  languages as derivatives. It's the best language to start with since it's
+  simplicity, and memory access, allows you to learn coding while understanding
+  how computers work.
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
